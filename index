@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<HTML>
+  <head>
+    <meta name="Application-name" content="Index">
+    <meta charset="UTF-8">
+    <tittle>
+      Index
+    </tittle>
+  </head>
+  <body>
+    <h1>
+      Loeza Muñoz Emilio
+    </h1>
+   <a href="https://github.com/emilioloeza1/PracticasApWeb/blob/main/Pra%C3%A1ctica%201.html" > Práctica 1 
+    </a>
+
+<br>
+
+   <a href="https://github.com/emilioloeza1/PracticasApWeb/blob/main/Pr%C3%A1ctica%202.html" > Práctica 2 
+    </a>
+  
+  </body>
+</HTML>
