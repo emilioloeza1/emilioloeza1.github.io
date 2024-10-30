@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<HTML>
+  <head>
+    <title>
+      Práctica 6
+    </title>
+  </head>
+
+  <body>
+  <header> <h1> Programación web </h1>
+  <nav> 
+  <a href="Inicio"> Inicio </a> <br>
+  <a href="Opciones"> Opciones </a> <br>
+  <a href="Más"> Más </a> <br>
+  </header> <br>
+
+  <section> <h2> Programación web es la mejor materia </section> </h2> <br>
+
+ <article> <h2> Si, programación web es la mejor materia </article> </h2> <br>
+
+<aside> <h3> Por qué? Porque si jeje </aside> </h3> <br>
+  <footer> Loeza Muñoz Emilio </footer>
+  </body>
+
+</HTML>
