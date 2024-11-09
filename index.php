@@ -54,7 +54,7 @@
 
     <br>
 
-    <a href="" > Práctica 1 PHP
+    <a href="/Practica1.php" > Práctica 1 PHP
     </a>
   </body>
 </HTML>
