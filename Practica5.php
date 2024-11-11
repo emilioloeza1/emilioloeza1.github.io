@@ -2,22 +2,22 @@
 <html>
 <head> <title> Práctica 5 </title> </head>
 <?php
-$dia ="jueves";
+$dia ="miercoles";
 switch ($dia) {
 case "lunes":
-echo "hoy es lunes";
+echo "Hoy es lunes.";
 break;
 case "martes":
-echo "hoy es martes";
+echo "Hoy es martes.";
 break;
 case "miercoles":
-echo "hoy es miercoles";
+echo "Hoy es miercoles.";
 break;
 case "jueves":
-echo "hoy es jueves";
+echo "Hoy es jueves.";
 break;
 case "viernes":
-echo "hoy es viernes";
+echo "Hoy es viernes.";
 break;
 default:
 }
