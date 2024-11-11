@@ -63,5 +63,19 @@
 
     <a href="/Practica2.php" > Práctica 2 PHP
     </a>
+
+    <br>
+
+    <br>
+
+    <a href="/Practica3.php" > Práctica 3 PHP
+    </a>
+
+    <br>
+
+    <br>
+
+    <a href="/Practica4.php" > Práctica 4 PHP
+    </a>
   </body>
 </HTML>
