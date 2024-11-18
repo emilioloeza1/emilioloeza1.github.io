@@ -89,7 +89,7 @@
 
     <br>
 
-    <a href="/Imagen1.png" > Práctica 7 PHP
+    <a href="/imagen1.png" > Práctica 7 PHP
     </a>
   </body>
 </HTML>
