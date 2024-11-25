@@ -98,5 +98,12 @@
 
     <a href="/imagen2.png" > Práctica 8 PHP
     </a>
+
+    <br>
+
+    <br>
+
+    <a href="/imagen3.png" > Práctica 10 PHP
+    </a>
   </body>
 </HTML>
